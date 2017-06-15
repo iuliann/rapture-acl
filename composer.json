@@ -10,5 +10,10 @@
       "homepage": "http://iuliann.ro",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Rapture\\Acl\\": "src/"
+    }
+  }
 }
