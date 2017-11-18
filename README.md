@@ -19,7 +19,7 @@ Simple concept: `REQUESTER` wants to do an `ACTION` on a `RESOURCE`.
 ## Install
 
 ```bash
-composer require iuliann/rapture-acl
+composer require mrjulio/rapture-acl
 ```
 
 
